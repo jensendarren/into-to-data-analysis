@@ -1,2 +1,2 @@
-# into-to-data-analysis
-Tales from the Intro To Data Analysis free course on Udacity
+# Intro To Data Analytics
+Tales from the [Intro To Data Analysis](https://classroom.udacity.com/courses/ud170/) free course on Udacity
